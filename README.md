@@ -7,7 +7,7 @@
  - [Napp Grades](https://napp-grades.ch)
  - [Portfolio](https://noekrebs.ch)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sumis34/](https://github.com/Sumis34/)
+💻 All of my projects are available at [https://github.com/Sumis34/](https://github.com/Sumis34/)
 
 <h3 align="left">Connect with me:</h3>
 
