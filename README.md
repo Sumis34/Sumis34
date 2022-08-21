@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noé</h1>
 <h3 align="center">A passionate developer from Switzerland</h3>
 
-- 🔭 I’m currently working on [my Homepage](https://noekrebs.ch)
+## 🔭 Active Websites:
+ - [Chöimir.ch](https://chöimer.ch)
+ - [Cuota](https://cuota.ch)
+ - [Napp Grades](https://napp-grades.ch)
+ - [Portfolio](https://noekrebs.ch)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumis34/](https://github.com/Sumis34/)
 
