@@ -6,6 +6,7 @@
  - [Cuota](https://cuota.ch)
  - [napp grades](https://napp-grades.ch)
  - [Portfolio](https://noekrebs.ch)
+ - [German Starter Rust Server](https://german-starter-website.vercel.app)
 
 💻 All of my projects are available at [https://github.com/Sumis34/](https://github.com/Sumis34/)
 
