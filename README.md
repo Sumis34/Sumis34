@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noé</h1>
-<h3 align="center">A passionate developer from Switzerland</h3>
+<h3 align="center">As a passionate developer from Switzerland, I'm excited to bring my technical expertise and creative flair to any project I'm involved in. Additionally, I'm also a skilled filmmaker with a keen eye for storytelling and visual aesthetics.</h3>
 
 ## 🔭 Active Websites:
  - [Chöimir.ch](https://chöimir.ch)
