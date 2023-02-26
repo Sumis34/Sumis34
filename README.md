@@ -4,7 +4,7 @@
 ## 🔭 Active Websites:
  - [Chöimir.ch](https://chöimir.ch)
  - [Cuota](https://cuota.ch)
- - [napp grades](https://napp-grades.ch)
+ - [napp grades](https://napp.noekrebs.ch)
  - [Portfolio](https://noekrebs.ch)
  - [German Starter Rust Server](https://german-starter-website.vercel.app)
  - [TLDify](https://tldify.noekrebs.ch)
