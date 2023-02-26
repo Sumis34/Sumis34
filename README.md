@@ -11,6 +11,6 @@
 
 💻 All of my projects are available at [https://github.com/Sumis34/](https://github.com/Sumis34/)
 
-## ☎️ Contats
+## ☎️ Contats:
  - Chat with me on my [Discord](https://discord.gg/rZSYr5zrE8)
  - Visit my [youtube channel](https://www.youtube.com/@noekrebs)
