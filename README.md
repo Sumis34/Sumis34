@@ -1,5 +1,5 @@
 # Hi 👋, I'm Noé
-## As a passionate developer from Switzerland, I'm excited to bring my technical expertise and creative flair to any project I'm involved in.
+As a passionate developer from Switzerland, I'm excited to bring my technical expertise and creative flair to any project I'm involved in.
 
 ## Projects:
  - [Cuota](https://cuota.noekrebs.ch)
