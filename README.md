@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Noé</h1>
-<h3 align="center">As a passionate developer from Switzerland, I'm excited to bring my technical expertise and creative flair to any project I'm involved in.</h3>
+# Hi 👋, I'm Noé
+## As a passionate developer from Switzerland, I'm excited to bring my technical expertise and creative flair to any project I'm involved in.
 
 ## Projects:
  - [Cuota](https://cuota.noekrebs.ch)
