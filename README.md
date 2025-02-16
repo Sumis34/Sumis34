@@ -1,6 +1,8 @@
 # Hi 👋, I'm Noé
 As a passionate developer from Switzerland, I'm excited to bring my technical expertise and creative flair to any project I'm involved in.
 
+Currently working on [shiper.app](https://shiper.app).
+
 ## Projects:
  - [Cuota](https://cuota.noekrebs.ch)
  - [napp grades](https://napp.noekrebs.ch)
